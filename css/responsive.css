@@ -91,7 +91,15 @@
   }
 }
 
-@media (max-width: 480px) {}
+@media (max-width: 480px) {
+  .navbar-brand {
+
+    span {
+      font-size: 14px;
+
+    }
+  }
+}
 
 @media (max-width: 420px) {}
 
